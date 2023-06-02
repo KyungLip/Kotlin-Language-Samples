@@ -1,4 +1,4 @@
-package com.example.kotlin_language_samples
+package com.example.samples
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
